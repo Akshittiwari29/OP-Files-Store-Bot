@@ -33,7 +33,7 @@ I Guess This Will Be Usefull For Many People.....😇.
 ##
 ### Installation
 #### Deploy on Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Aadhi000/OP-Files-Store-Bot)</br>
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OpusTechz/OP-Files-Store-Bot)</br>
 <a href="https://youtube.com/channel/UCf_dVNrilcT0V2R--HbYpMA">
   <img src="https://img.shields.io/badge/Subscribe-black?logo=youtube" width="149">
 </a><br>
@@ -85,7 +85,7 @@ python3 main.py
 * `{first}` - User first name
 * `{last}` - User last name
 * `{id}` - User ID
-* `{mention}` - Mention the user
+* `{mention}` - Mention the user. 
 * `{username}` - Username
 
 #### CUSTOM_CAPTION
